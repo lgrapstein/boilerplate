@@ -19,6 +19,7 @@
     "url": "https://github.com/lgrapstein/boilerplate/issues"
   },
   "devDependencies": {
+    "babel-eslint": "^10.0.2",
     "babel-loader": "^7.1.5",
     "eslint-loader": "^2.1.2",
     "nodemon": "^1.19.0",

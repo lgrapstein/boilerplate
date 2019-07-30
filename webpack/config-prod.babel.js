@@ -44,7 +44,7 @@ export default {
         use: 'svg-inline-loader'
       },
       {
-        test: /\.(jpe?g|png|gif|ico)$/i,
+        test: /\.(jpe?g|png|gif|ico|ttf)$/i,
         use: 'file-loader'
       }
     ]

@@ -29,6 +29,7 @@
   "plugins": [
     "import"
   ],
+  "parser": "babel-eslint",
   "parserOptions": {
     "sourceType": "module",
     "ecmaFeatures": {
